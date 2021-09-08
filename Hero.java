@@ -6,4 +6,5 @@ public class Hero {
   }
   Hero(){
     this.hp=100;
+  }
 }
